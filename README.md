@@ -1,4 +1,4 @@
-# visualcron
+# Visual Cron
 
 `visualcron` helps to visualise a cron expression
 
